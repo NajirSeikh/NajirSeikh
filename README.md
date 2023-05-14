@@ -55,6 +55,14 @@ src="https://img.shields.io/github/followers/NajirSeikh?logo=github&style=for-th
 
 <a href="http://www.github.com/NajirSeikh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NajirSeikh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/NajirSeikh"><img src="https://activity-graph.herokuapp.com/graph?username=NajirSeikh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![NajirSeikh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NajirSeikh&theme=github-compact)](https://github.com/NajirSeikh/github-readme-activity-graph)
 
 <a href="https://github.com/NajirSeikh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajirSeikh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+#### Thanks for visiting :heart:
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/NajirSeikh/count.svg">  
+
+<!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=NajirSeikh" width="auto"></img> -->
+
+<!-- <a href="http://www.github.com/NajirSeikh"><img src="https://activity-graph.herokuapp.com/graph?username=NajirSeikh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
